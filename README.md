@@ -1,9 +1,9 @@
-# Hybrid-Molecule-Featurization
+# Hybrid Molecule Featurization
 This repository contains the code used to integrate RDKit chemical domain descriptors with GNN-encoded features for improved performance on MoleculeNet classification and regression benchmarks.
 
 
 ---
-Our Conda environment can be replicated using the 'environment.yml' file -  
+Our Conda environment can be replicated using the <i>'environment.yml'</i> file -  
 ```bash
 conda env create -f environment.yml -n <environment name>
 conda activate <environment name>
