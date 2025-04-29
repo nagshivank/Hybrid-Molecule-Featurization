@@ -12,7 +12,7 @@ conda activate <environment name>
   
 To prepare the MoleculeNet dataset files for training, for RDKit featurization, the following script can be executed as follows -  
 ```bash
-python ./featurization,py --dataset 'Data/<benchmark>'
+python ./featurization.py --dataset './Data/<benchmark>'
 ```
 
 
