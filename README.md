@@ -18,7 +18,7 @@ python ./featurization,py --dataset 'Data/<benchmark>'
 
 
 
-The GCN and GGNN encoders can be trained and their respective embeddings can be used to train the downstream classifiers with the below commands, as demonstrated for the BACE benchmark with default parameters and paths -
+The GCN and GGNN encoders can be trained and their respective embeddings can be used to train the downstream classifiers by executing one of two python scripts, as demonstrated for the BACE benchmark with default parameters and paths -
 
 ```bash
 python GCN_Feature_Predictions.py \  # Or GGNN_Feature_Predictions.py
